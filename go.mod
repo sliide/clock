@@ -1,4 +1,4 @@
-module github.com/mixer/clock
+module github.com/sliide/clock
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
